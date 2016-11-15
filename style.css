@@ -1,6 +1,8 @@
 nav ul{
-  float:left;
   list-style:none;
+}
+navi ul li{
+  float:left;
 }
 body{
   background-color:f5f5f5:
